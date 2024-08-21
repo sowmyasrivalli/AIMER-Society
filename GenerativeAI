@@ -1,0 +1,7 @@
+Generative AI Tools
+--Overview::
+      Generative AI tools leverage advanced machine learning techniques to create new content based on learned patterns from existing data. These tools are pivotal in various fields, 
+including creative industries, research, and software development, offering innovative solutions to automate content generation, enhance creativity, and drive efficiency.
+--Key Concepts::
+      Generative Models: These models are designed to generate new data samples that resemble a given dataset. Prominent examples include Generative Adversarial Networks (GANs), 
+Variational Autoencoders (VAEs), and Transformer-based models like GPT.
