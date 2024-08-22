@@ -1,0 +1,37 @@
+Image Classification Using Google Teachable Machine
+
+Project Overview:
+The Image Classification project involved building a model that could automatically categorize images into different classes, leveraging Google Teachable Machine's accessible platform.
+
+Steps Involved:
+1.Data Collection:
+Sourced and curated datasets containing thousands of images across multiple categories such as animals, vehicles, and household objects.
+Ensured a balanced dataset by gathering an equal number of images for each category, which is crucial for accurate model training.
+
+2.Data Preprocessing:
+Images were resized, normalized, and augmented to increase the diversity of the training data, enhancing the model’s robustness.
+Augmentation techniques included random rotations, flips, and zooms.
+
+3.Model Training:
+Used Google Teachable Machine’s interface to build and train a convolutional neural network (CNN).
+Experimented with different training parameters such as learning rate, batch size, and number of epochs to optimize the model’s performance.
+Split the dataset into training, validation, and test sets to ensure the model’s accuracy was generalizable to new data.
+
+4.Model Evaluation:
+Evaluated the model using metrics such as accuracy, precision, recall, and F1-score.
+Performed confusion matrix analysis to identify misclassified images and understand patterns of errors.
+
+5.Deployment:
+Exported the trained model and integrated it into a web application where users could upload images for real-time classification.
+The web application was built using HTML, CSS, and JavaScript, with the model running locally via TensorFlow.js.
+
+Technical Stack:
+Google Teachable Machine
+TensorFlow.js for deployment
+Python for initial data preprocessing
+OpenCV for image augmentation
+
+Key Learnings:
+Mastered the process of creating and optimizing CNN models for image classification.
+Learned to use augmentation techniques to improve model performance on limited datasets.
+Gained experience in deploying models in a web environment using TensorFlow.js.
