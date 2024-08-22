@@ -1,0 +1,34 @@
+Power BI Report on Literacy Rates
+Project Overview:
+This project involved using Power BI to analyze and visualize literacy rates across different regions, aiming to uncover insights that could guide educational policies.
+Steps Involved:
+1.Data Collection:
+Sourced data from national educational databases, global literacy studies, and census reports.
+The dataset included variables like literacy rate by age group, gender, region, and educational attainment levels.
+
+2.Data Preprocessing:
+Cleaned the dataset to handle missing values, normalize data formats, and ensure consistency across different sources.
+Used Power Query in Power BI to perform transformations like data merging, unpivoting columns, and calculating new metrics (e.g., literacy growth rates).
+
+3.Data Modeling:
+Designed a data model in Power BI, establishing relationships between tables (e.g., regions, demographic groups, educational outcomes).
+Created calculated columns and measures using DAX (Data Analysis Expressions) for more complex data analysis.
+
+4.Report Creation:
+Built interactive dashboards with visualizations like bar charts, line graphs, and heat maps to represent literacy trends, disparities, and growth over time.
+Integrated slicers and filters, allowing users to interact with the data, drilling down by region, gender, and other dimensions.
+
+5.Insights Generation:
+Conducted in-depth analysis to identify key trends, such as regions with the most significant literacy improvements or those lagging behind.
+Provided actionable insights, such as recommending targeted educational programs in underperforming regions.
+
+Technical Stack:
+Power BI for data visualization and dashboard creation
+DAX for creating calculated columns and measures
+Power Query for data transformation
+Excel for initial data cleaning and preparation
+
+Key Learnings:
+Gained proficiency in Power BI’s advanced features, including data modeling and DAX.
+Enhanced ability to communicate complex data insights through clear, interactive visualizations.
+Learned the importance of data-driven decision-making in educational policy development.
